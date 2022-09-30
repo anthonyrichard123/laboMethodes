@@ -1,0 +1,3 @@
+/labo 2/.vs/
+/labo 2/bin/
+/labo 2/obj/
